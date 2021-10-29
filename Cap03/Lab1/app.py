@@ -21,7 +21,7 @@ warnings.filterwarnings("ignore")
 # Carregando os dados
 df = pd.read_csv('dados/dataset.csv')
 
-# Cálculo da margem de lucro bruto
+# Cálculo da margem de lucro bruto (cria a coluna Margem_Lucro)
 df['Margem_Lucro'] = np.multiply(np.divide(df['Lucro'], df['Venda']), 100).round(2)
 
 # Função para agrupamento
@@ -85,7 +85,7 @@ figura_2 = px.sunburst(data_frame = df,
                     values = 'Quantidade', 
                     color = 'Lucro', 
                     color_continuous_scale = 'rainbow', 
-                    hover_data = {'Quantidade':True, 'Lucro':True},)
+                    hover_data = {'Quantidade':True, 'Lucro':True},) #hover_data é o que mostrar quando passar o mouse
 
 figura_2.update_traces(textfont = {'family':'arial'}, 
                     textinfo = 'label+percent entry', 
