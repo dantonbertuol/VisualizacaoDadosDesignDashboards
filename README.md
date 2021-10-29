@@ -10,3 +10,6 @@ Data App construído com Linguagem Python, usando o Streamlit como biblioteca pa
 
 ### Mini-Projeto 03 - Data App - Dashboard Interativo Para Detecção de Fraudes com H2O Wave
 Data App desenvolvido utilizando Linguagem Python e a biblioteca e framework H2O Wave para construção de gráficos e dashboard interativo.
+
+### Mini-Projeto 04 - Data App - Dashboard Interativo Para Análise de Chamados de Suporte
+Data App desenvolvindo utilizando a Linguagem Python e a biblioteca Dash, juntamente com o framework Flask, que permite construir um Dashboard Interativo 100% via web.
