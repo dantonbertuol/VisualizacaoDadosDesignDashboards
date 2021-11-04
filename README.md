@@ -2,6 +2,7 @@
 Repositório do Curso Visualização de Dados e Design de Dashboards da Data Science Academy
 https://www.datascienceacademy.com.br/course/cincia-de-dados-aplicada
 
+## Mini-Projetos
 ### Mini-Projeto 01 - Dashboard Interativo com Streamlit, Folium e Plotly Para Monitoramento de Casos de Covid-19 em Tempo Real
 Real-Time Dashboard Interativo utilizando Linguagem  Python  e  as  bibliotecas  Streamlit  (para  construção do Dashboard), Folium (para construção de mapas)e Plotly(paragráficos interativos). Foi utilizada uma API para acessar dados em tempo real sobre o Covid-19.
 
@@ -13,3 +14,10 @@ Data App desenvolvido utilizando Linguagem Python e a biblioteca e framework H2O
 
 ### Mini-Projeto 04 - Data App - Dashboard Interativo Para Análise de Chamados de Suporte
 Data App desenvolvindo utilizando a Linguagem Python e a biblioteca Dash, juntamente com o framework Flask, que permite construir um Dashboard Interativo 100% via web.
+
+## Laboratórios
+
+### Lab 1 - Dashboard Analítico Interativo de Vendas com Dash em Python
+
+
+### Lab 2 - Dashboard Interativo Para Análise de Incidentes e Atos de Violência
