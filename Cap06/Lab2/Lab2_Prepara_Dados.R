@@ -11,6 +11,7 @@ install.packages("plyr")
 install.packages("dplyr")
 install.packages("tidyr")
 install.packages("ggplot2")
+install.packages("rmarkdown")
 
 # Carrega pacotes na sessão (tem que ser feito a cada sessão R)
 library(plyr)
