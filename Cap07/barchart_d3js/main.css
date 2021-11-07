@@ -14,7 +14,19 @@ body,html{
 	shape-rendering: crispEdges;
 }
 .bar-label{
-	fill: white;
-	text-anchor:end;
-	font-size: 24px;
+	fill: #000;
+	text-anchor: middle;
+	font-size: 18px;
+}
+.axis path,
+.axis line{
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+.gridline path,
+.gridline line{
+	fill: none;
+	stroke: #ccc;
+	shape-rendering: crispEdges;
 }
