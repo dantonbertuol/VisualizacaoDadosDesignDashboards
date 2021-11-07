@@ -9,3 +9,12 @@ body,html{
 	background-color: #F5F2EB;
 	border: 1px solid #CCC;
 }
+.bar{
+	fill: #007BA7;
+	shape-rendering: crispEdges;
+}
+.bar-label{
+	fill: white;
+	text-anchor:end;
+	font-size: 24px;
+}
