@@ -1,0 +1,4 @@
+1. Instale o Python.
+2. Abra um prompt de comando, no diretório com os arquivos e digite:
+python -m http.server
+3. Abra o browser e digite: http://localhost:8000
