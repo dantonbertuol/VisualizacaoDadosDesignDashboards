@@ -48,3 +48,4 @@ Capítulo dedicado ao estudo da poderosa ferramenta baseada em javascript, D3.js
 Capítulo dedicado ao estudo da ferramenta Tableau. Foram realizadas atividades para construção de gráficos, mapas, hierarquias, Joins entre base de dados diferentes, dashboards, storyline e ainda um Mini Projeto de construção de Dashboard para Apresentação Executiva.
 
 ### Mini-Projeto 07 - Construindo um Visualização de Dados para Apresentação Executiva
+O Mini-Projeto 07 foi a construção de uma Storyline utilizando Tableau, contendo informações de segmentação de clientes por Estado, Sexo, Classificação, Saldo Bancário e Idade. Ao final do projeto, foi publicada a versão final no Tableau Public, que pode ser acessado através do link: https://public.tableau.com/views/Storyline_16371038161610/Story?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link
