@@ -5,6 +5,9 @@ https://www.datascienceacademy.com.br/course/cincia-de-dados-aplicada
 
 # Estrutura do Projeto
 
+## Cap02 - Métodos de Visualização
+Neste capítulo foram implementados diversos tipos de gráficos utilizando a linguagem Python.
+
 ## Cap03 - Organização Visual
 Neste capítulo foi abordado a construção de alguns visuais com a linguagem de programação Python, utilizando as bibliotecas Dash, Numpy, Pandas e Plotly.
 
