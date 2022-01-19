@@ -52,3 +52,26 @@ Capítulo dedicado ao estudo da ferramenta Tableau. Foram realizadas atividades 
 
 ### Mini-Projeto 07 - Construindo um Visualização de Dados para Apresentação Executiva
 O Mini-Projeto 07 foi a construção de uma Storyline utilizando Tableau, contendo informações de segmentação de clientes por Estado, Sexo, Classificação, Saldo Bancário e Idade. Ao final do projeto, foi publicada a versão final no Tableau Public, que pode ser acessado através do link: https://public.tableau.com/views/Storyline_16371038161610/Story?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link
+
+## Cap10 - Visualização de Dados com Power BI
+Capítulo dedicado ao estudo da ferramenta Microsoft Power BI. Foram realizados cinco laboratórios práticos utilizando ferramentas gráficas, gráficos personalizados e análise e previsão de séries temporais.
+
+### Laboratório 01 - Análise de Dados Financeiros em Tempo Real
+Construção de uma visualização para análise de dados financeiros. Ênfase ao processo de extração de dados e tratamento e transformação dos dados que tem impacto direto no processo de análise.
+Fonte de dados utilizada: https://finance.yahoo.com/quote/AMD/history?p=AMD
+
+### Laboratório 02 - Market Cap, Rendimento de Dividendos e EBITDA
+Construção de uma visualização para análise de dados financeiros de Market Cap, Rendimento de Dividendos e EBITDA.
+Fonte da dados utilizada: https://finance.yahoo.com
+
+### Laboratório 03 - Usando Gráfico Customizado no Power BI
+Criado um gráfico customizado no Power BI, o Candlestick Chart.
+Fonte da dados utilizada: https://finance.yahoo.com
+
+### Laboratório 04 - Análise de Tendência com Pivot Points
+Realizada análise de tendência em um gráfico de linhas com pivot points no Power BI.
+Fonte da dados utilizada: https://finance.yahoo.com
+
+### Laboratório 05 - Fazendo Previsões com o Power BI
+Realizada previsões de séries temporais no Power BI utilizando recurso nativo e gráfico de linhas.
+Fonte da dados utilizada: https://finance.yahoo.com
